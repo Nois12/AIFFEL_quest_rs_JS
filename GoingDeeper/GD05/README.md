@@ -11,20 +11,20 @@
 문제에서 요구하는 조건은 다음과 같다.
 
 (1) 번역기 모델 학습에 필요한 텍스트 데이터 전처리가 한국어 포함하여 잘 이루어졌다.
+
 (2) Attentional Seq2seq 모델이 정상적으로 구동된다.
+
 (3) 테스트 결과 의미가 통하는 수준의 번역문이 생성되었다.
 
-(1) 충족되었다.
 
+(1) 충족되었다.
 <img width="457" height="345" alt="image" src="https://github.com/user-attachments/assets/3a0d30a5-adec-4388-ace4-391b9a99943f" />
 
 (2) Training Loss가 안정적으로 감소하면서 학습이 되었음을 알 수 있다.
-
 <img width="773" height="482" alt="image" src="https://github.com/user-attachments/assets/c5000819-670e-4b60-98e0-851fd88e5753" />
 
 
 (3) 충족되었다.
-
 <img width="768" height="260" alt="image" src="https://github.com/user-attachments/assets/7d16cea0-de59-492d-ab53-13b670914cb2" />
 
 
